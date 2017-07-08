@@ -3,10 +3,12 @@
 This repository contains a number of "needs and preference sets" (or "user profiles")
 for the task in the online course GTx_HDM1.2aX. 
 
-For the task, use only settings in the namespace `http://registry.gpii.net/common/` 
+For the task, use only settings in the namespace ` http://terms.gpii.eu/` 
 and ignore other namespaces, such as `http://registry.gpii.net/applications/eu.gpii.olb`.
 
-See the related repository [GTx_HDM1.2aX](https://github.com/REMEXLabs/GTx_HDM1.2aX), 
+The site is "live" at [https://remexlabs.github.io/GTx_HDM12aX_preferences/](https://remexlabs.github.io/GTx_HDM12aX_preferences/).
+
+See also the related repository [GTx_HDM1.2aX](https://github.com/REMEXLabs/GTx_HDM1.2aX), 
 which contains a sample website that can be used for the task.
 
 ## Licences
