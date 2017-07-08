@@ -1,0 +1,17 @@
+{
+    "flat": {
+        "contexts": {
+            "gpii-default": {
+                "name": "Default preferences",
+                "preferences": {
+                    "http://terms.gpii.eu/language": "nb",
+                    "http://terms.gpii.eu/subtitlesEnabled": true,
+                    "http://terms.gpii.eu/captionsEnabled": true,
+                    "http://terms.gpii.eu/signLanguageEnabled": true,
+                    "http://terms.gpii.eu/": "nsl"
+                }
+            }
+        }
+    }
+}
+

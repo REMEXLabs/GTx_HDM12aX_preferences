@@ -1,0 +1,15 @@
+{
+    "flat": {
+        "contexts": {
+            "gpii-default": {
+                "name": "Default preferences",
+                "preferences": {
+                    "http://terms.gpii.eu/language": "en-GB",
+                    "http://terms.gpii.eu/backgroundColour": "#F0DC82",
+                    "http://terms.gpii.eu/foregroundColour": "#804000"
+                }
+            }
+        }
+    }
+}
+

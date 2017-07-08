@@ -1,0 +1,14 @@
+{
+    "flat": {
+        "contexts": {
+            "gpii-default": {
+                "name": "Default preferences",
+                "preferences": {
+                    "http://terms.gpii.eu/language": "en-GB",
+                    "http://terms.gpii.eu/onScreenKeyboardEnabled": true
+                }
+            }
+        }
+    }
+}
+

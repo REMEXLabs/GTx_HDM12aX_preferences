@@ -1,0 +1,15 @@
+{
+    "flat": {
+        "contexts": {
+            "gpii-default": {
+                "name": "Default preferences",
+                "preferences": {
+                    "http://terms.gpii.eu/language": "de",
+                    "http://terms.gpii.eu/simplifiedUiEnabled": true,
+                    "http://terms.gpii.eu/fontSize": 16
+                }
+            }
+        }
+    }
+}
+
