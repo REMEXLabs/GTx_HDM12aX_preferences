@@ -4,11 +4,11 @@
             "gpii-default": {
                 "name": "Default preferences",
                 "preferences": {
-                    "http://terms.gpii.eu/language": "en-US",
-                    "http://terms.gpii.eu/subtitlesEnabled": true,
-                    "http://terms.gpii.eu/captionsEnabled": true,
-                    "http://terms.gpii.eu/signLanguageEnabled": true,
-                    "http://terms.gpii.eu/": "ase"
+                    "http://registry.gpii.eu/common/language": "en-US",
+                    "http://registry.gpii.eu/common/subtitlesEnabled": true,
+                    "http://registry.gpii.eu/common/captionsEnabled": true,
+                    "http://registry.gpii.eu/common/signLanguageEnabled": true,
+                    "http://registry.gpii.eu/common/": "ase"
                 }
             }
         }

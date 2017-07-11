@@ -4,10 +4,10 @@
             "gpii-default": {
                 "name": "Default preferences",
                 "preferences": {
-                    "http://terms.gpii.eu/language": "zho",
-                    "http://terms.gpii.eu/signLanguageEnabled": true,
-                    "http://terms.gpii.eu/signLanguage": "csl",
-                    "http://terms.gpii.eu/signLanguageInterpreterType": "avatar"
+                    "http://registry.gpii.eu/common/language": "zho",
+                    "http://registry.gpii.eu/common/signLanguageEnabled": true,
+                    "http://registry.gpii.eu/common/signLanguage": "csl",
+                    "http://registry.gpii.eu/common/signLanguageInterpreterType": "avatar"
                 }
             }
         }
