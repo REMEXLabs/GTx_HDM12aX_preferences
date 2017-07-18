@@ -9,11 +9,7 @@
                     "http://registry.gpii.eu/common/linkAdaptation": "emphasizeLinks",
                     "http://registry.gpii.eu/common/highContrastEnabled": true,
                     "http://registry.gpii.eu/common/highContrastTheme": "white-black",
-                    "http://registry.gpii.eu/common/signLanguageEnabled": false,
-                    "http://registry.gpii.net/applications/eu.gpii.olb": {
-                        "lineSpacing": 2,
-                        "inputsLarger": true
-                    }
+                    "http://registry.gpii.eu/common/signLanguageEnabled": false
                 }
             }
         }

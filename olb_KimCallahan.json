@@ -7,10 +7,7 @@
                     "http://registry.gpii.eu/common/language": "en-US",
                     "http://registry.gpii.eu/common/signLanguageEnabled": true,
                     "http://registry.gpii.eu/common/signLanguage": "ase",
-                    "http://registry.gpii.eu/common/signLanguageInterpreterType": "avatar",
-                    "http://registry.gpii.net/applications/eu.gpii.olb": {
-                        "textStyle": "verdana"
-                    }
+                    "http://registry.gpii.eu/common/signLanguageInterpreterType": "avatar"
                 }
             }
         }
