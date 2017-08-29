@@ -1,14 +1,12 @@
 {
-    "flat": {
-        "contexts": {
-            "gpii-default": {
-                "name": "Default preferences",
-                "preferences": {
-                    "http://registry.gpii.eu/common/language": "en-GB",
-                    "http://registry.gpii.eu/common/highContrastEnabled": true,
-                    "http://registry.gpii.eu/common/highContrastTheme": "white-black",
-                    "http://registry.gpii.eu/common/simplifiedUiEnabled": true
-                }
+    "contexts": {
+        "gpii-default": {
+            "name": "Default preferences",
+            "preferences": {
+                "http://registry.gpii.eu/common/language": "en-GB",
+                "http://registry.gpii.eu/common/highContrastEnabled": true,
+                "http://registry.gpii.eu/common/highContrastTheme": "white-black",
+                "http://registry.gpii.eu/common/simplifiedUiEnabled": true
             }
         }
     }

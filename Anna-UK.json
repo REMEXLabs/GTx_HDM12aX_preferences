@@ -1,15 +1,13 @@
 {
-    "flat": {
-        "contexts": {
-            "gpii-default": {
-                "name": "Default preferences",
-                "preferences": {
-                    "http://registry.gpii.eu/common/language": "en-GB",
-                    "http://registry.gpii.eu/common/backgroundColour": "#F0DC82",
-                    "http://registry.gpii.eu/common/foregroundColour": "#804000",
-                    "http://registry.gpii.eu/common/unvisitedLinkColour": "black",
-                    "http://registry.gpii.eu/common/visitedLinkColour": "black"
-                }
+    "contexts": {
+        "gpii-default": {
+            "name": "Default preferences",
+            "preferences": {
+                "http://registry.gpii.eu/common/language": "en-GB",
+                "http://registry.gpii.eu/common/backgroundColour": "#F0DC82",
+                "http://registry.gpii.eu/common/foregroundColour": "#804000",
+                "http://registry.gpii.eu/common/unvisitedLinkColour": "black",
+                "http://registry.gpii.eu/common/visitedLinkColour": "black"
             }
         }
     }

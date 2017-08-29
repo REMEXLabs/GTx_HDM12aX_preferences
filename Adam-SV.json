@@ -1,14 +1,12 @@
 {
-    "flat": {
-        "contexts": {
-            "gpii-default": {
-                "name": "Default preferences",
-                "preferences": {
-                    "http://registry.gpii.eu/common/language": "sv-simple",
-                    "http://registry.gpii.eu/common/simplifiedUiEnabled": true,
-                    "http://registry.gpii.eu/common/selfVoicingEnabled": true,
-                    "http://registry.gpii.eu/common/lineHeight": "1.5em"
-                }
+    "contexts": {
+        "gpii-default": {
+            "name": "Default preferences",
+            "preferences": {
+                "http://registry.gpii.eu/common/language": "sv-simple",
+                "http://registry.gpii.eu/common/simplifiedUiEnabled": true,
+                "http://registry.gpii.eu/common/selfVoicingEnabled": true,
+                "http://registry.gpii.eu/common/lineHeight": "1.5em"
             }
         }
     }
