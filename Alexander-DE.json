@@ -1,0 +1,13 @@
+{
+    "contexts": {
+        "gpii-default": {
+            "name": "Default preferences",
+            "preferences": {
+                "http://registry.gpii.eu/common/language": "de",
+                "http://registry.gpii.eu/common/highContrastEnabled": true,
+                "http://registry.gpii.eu/common/highContrastTheme": "white-black"
+            }
+        }
+    }
+}
+
