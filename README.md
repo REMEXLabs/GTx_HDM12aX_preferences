@@ -1,9 +1,9 @@
 # Needs and Preference Sets for GTx_HDM1.2aX
 
 This repository contains a number of "needs and preference sets" (or "user profiles")
-for the task in the online course GTx_HDM1.2aX. 
+for the task in the online course [User Interface (UI) Personalization (GTx - HDM1.2aX)](https://www.edx.org/course/user-interface-ui-personalization-mitx-hdm1-2ax).
 
-For the task, use only settings in the namespace ` http://terms.gpii.eu/` 
+For the task, use only settings in the namespace `http://terms.gpii.eu/` 
 and ignore other namespaces, such as `http://registry.gpii.net/applications/eu.gpii.olb`.
 
 The site is "live" at [https://remexlabs.github.io/GTx_HDM12aX_preferences/](https://remexlabs.github.io/GTx_HDM12aX_preferences/).
