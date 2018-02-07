@@ -1,0 +1,12 @@
+{
+    "contexts": {
+        "gpii-default": {
+            "name": "Default preferences",
+            "preferences": {
+                "http://registry.gpii.eu/common/language": "en-GB",
+                "http://registry.gpii.eu/common/voiceControlEnabled": true
+            }
+        }
+    }
+}
+
