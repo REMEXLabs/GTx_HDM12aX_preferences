@@ -9,7 +9,9 @@
                 "http://registry.gpii.eu/common/tracking": [ "mouse", "caret" ],
                 "http://registry.gpii.eu/common/screenReaderTTSEnabled": true,
                 "http://registry.gpii.eu/common/screenReaderBrailleOutput": false,
-                "http://registry.gpii.eu/common/punctuationVerbosity": "some"
+                "http://registry.gpii.eu/common/punctuationVerbosity": "some",
+                "http://registry.gpii.eu/common/selfVoicingEnabled": true,
+                "http://registry.gpii.eu/common/pitch": 0.7
             }
         }
     }
