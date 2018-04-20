@@ -11,6 +11,7 @@
                 "http://registry.gpii.eu/common/screenReaderBrailleOutput": false,
                 "http://registry.gpii.eu/common/punctuationVerbosity": "some",
                 "http://registry.gpii.eu/common/selfVoicingEnabled": true,
+                "http://registry.gpii.eu/common/speechRate": 180,
                 "http://registry.gpii.eu/common/pitch": 0.7
             }
         }
