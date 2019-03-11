@@ -7,7 +7,7 @@
                 "http://registry.gpii.eu/common/simplifiedUiEnabled": true,
                 "http://registry.gpii.eu/common/fontSize": 16,
                 "http://registry.gpii.eu/common/lineHeight": "1.5em",
-                "http://registry.gpii.eu/common/selfVoicingEnabled": true,,
+                "http://registry.gpii.eu/common/selfVoicingEnabled": true,
                 "http://registry.gpii.eu/common/speechRate": 150,
                 "http://registry.gpii.eu/common/pitch": 0.4
             }
